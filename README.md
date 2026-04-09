@@ -2,12 +2,18 @@
 
 **AI Infrastructure & SRE Engineer** · Gurgaon, India
 
-Currently building and migrating cloud infrastructure at **Wyzard.ai**
-(Signal-to-Revenue AI platform) — just led a full **AWS → GCP migration**
-(ECS → GKE) across 80+ microservices.
+Currently building and migrating cloud infrastructure at **Wyzard.ai** (Signal-to-Revenue AI platform). I recently led a complete **AWS → GCP migration** (ECS → GKE) for 80+ microservices, ensuring zero data loss and minimal downtime.
 
-Previously supported enterprise infra for **OLX Indonesia (ASTRA)**
-— 9M+ monthly active users.
+---
+
+### 🔱 My Portfolio Tour
+
+1.  **[aws-to-gcp-migration-playbook](https://github.com/okpranavbansal/aws-to-gcp-migration-playbook)** — A 10-doc runbook series covering our entire cloud migration journey.
+2.  **[k8s-cost-optimizer](https://github.com/okpranavbansal/k8s-cost-optimizer)** — Terraform + Bash automation that slashed our AWS bill by 50–60%.
+3.  **[llm-infra-on-bedrock](https://github.com/okpranavbansal/llm-infra-on-bedrock)** — Production-grade LLM inference infrastructure using Amazon Bedrock and ECS.
+4.  **[gke-observability-stack](https://github.com/okpranavbansal/gke-observability-stack)** — Full-stack monitoring (LPGT) on GKE using Prometheus, Grafana, Loki, and Tempo.
+5.  **[sre-runbooks](https://github.com/okpranavbansal/sre-runbooks)** — Battle-tested incident response playbooks and postmortem templates.
+6.  **[kafka-realtime-analytics](https://github.com/okpranavbansal/kafka-realtime-analytics)** — Real-time analytics engine (Kafka + Pinot + Superset) — Hackathon 🥈.
 
 ---
 
@@ -16,9 +22,9 @@ Previously supported enterprise infra for **OLX Indonesia (ASTRA)**
 ```
 Cloud Migration     AWS → GCP  ·  ECS → GKE  ·  Workload Identity
 AI Infrastructure   Amazon Bedrock  ·  SageMaker  ·  LLM workflows
-Kubernetes          GKE  ·  80+ microservices  ·  on-call ownership
-Cost Engineering    50–60% AWS cost reduction before migration
-Observability       Prometheus  ·  Grafana  ·  Loki  ·  Datadog
+Kubernetes          GKE  ·  80+ microservices  ·  ArgoCD GitOps
+Cost Engineering    Operationalizing 50–60% AWS cost savings
+Observability       Prometheus  ·  Grafana  ·  Loki  ·  Tempo
 ```
 
 ---
@@ -32,20 +38,7 @@ Observability       Prometheus  ·  Grafana  ·  Loki  ·  Datadog
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-
----
-
-### Pinned projects
-
-| Repo | What it is |
-|------|-----------|
-| [aws-to-gcp-migration-playbook] | Full runbook: ECS → GKE migration guide |
-| [k8s-cost-optimizer] | Scripts that cut our AWS bill 50–60% |
-| [llm-infra-on-bedrock] | Terraform + K8s for running LLMs in prod |
-| [sre-runbooks] | Incident response templates & postmortems |
-| [gke-observability-stack] | Prometheus + Grafana + Loki on GKE |
-| [kafka-realtime-analytics] | Hackathon runner-up: Kafka + Pinot + Superset |
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
 ---
 
@@ -58,9 +51,9 @@ Observability       Prometheus  ·  Grafana  ·  Loki  ·  Datadog
 
 ### Achievements
 
-- Runner-up, Hackathon 2025 — real-time analytics (Kafka + Pinot + Superset)
-- Led AWS → GCP migration for AI platform — zero data loss, no downtime
-- 9.77 CGPA, Chitkara University — while working full-time in production
+- **Runner-up, Hackathon 2025** — Real-time analytics engine (Kafka + Pinot + Superset).
+- **AWS → GCP Migration Lead** — Successfully migrated critical AI infrastructure with zero data loss.
+- **9.77 CGPA, Chitkara University** — Maintained high academic excellence while working in production environments.
 
 ---
 
