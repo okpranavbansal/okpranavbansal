@@ -42,11 +42,6 @@ Observability       Prometheus  ·  Grafana  ·  Loki  ·  Tempo
 
 ---
 
-### GitHub stats
-
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=okpranavbansal&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okpranavbansal&layout=compact&hide_border=true&theme=default)
-
 ---
 
 ### Achievements
