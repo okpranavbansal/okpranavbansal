@@ -22,14 +22,14 @@ Observability          Datadog, Prometheus, Grafana, Loki, Tempo, New Relic
 
 ## Proof Points
 
-- Led the AWS -> GCP migration track for Wyzard.ai's AI platform, moving from
-  ECS Fargate to GKE across 28+ services.
+- Led the AWS -> GCP migration track for Wyzard.ai's AI platform, moving a
+  multi-service platform from ECS Fargate toward GKE.
 - Built GitOps delivery with Argo CD App of Apps and SOPS/KSOPS-based secret
   decryption, reducing deployment toil by 40%.
 - Worked on production infrastructure serving ASTRA / OLX Indonesia scale:
   80+ microservices and 9M+ MAU platform exposure.
-- Reduced AWS spend by 50-60% through Spot strategy, RDS tuning, and
-  infrastructure right-sizing.
+- Reduced AWS/ECS infrastructure spend by 50-60% through Spot strategy, RDS
+  tuning, and infrastructure right-sizing.
 - Maintained 9.77/10 CGPA while working in production DevOps/SRE environments.
 
 ## Portfolio Tour
