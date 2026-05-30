@@ -1,60 +1,80 @@
-# Hi, I'm Pranav Bansal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Hi, I'm Pranav Bansal
 
-**AI Infrastructure & SRE Engineer** · Gurgaon, India
+**Senior AI Platform Engineer** at **Wyzard.ai**  
+Site Reliability · cloud migrations · Kubernetes · AI platform operations  
+Gurgaon, India · [Portfolio] · [LinkedIn] · [Email]
 
-Currently building and migrating cloud infrastructure at **Wyzard.ai** (Signal-to-Revenue AI platform). I recently led a complete **AWS → GCP migration** (ECS → GKE) for 80+ microservices, ensuring zero data loss and minimal downtime.
+I build and operate production infrastructure for AI products: GKE platforms,
+GitOps delivery, secure Kubernetes edges, observability loops, and cost-aware
+cloud systems. Recently, my work has centered on moving Wyzard.ai from AWS/ECS
+to GCP/GKE while keeping reliability, secrets, deployment flow, and
+founder-facing delivery in shape.
 
----
+## Current Focus
 
-### 🔱 My Portfolio Tour
-
-1.  **[aws-to-gcp-migration-playbook](https://github.com/okpranavbansal/aws-to-gcp-migration-playbook)** — A 10-doc runbook series covering our entire cloud migration journey.
-2.  **[k8s-cost-optimizer](https://github.com/okpranavbansal/k8s-cost-optimizer)** — Terraform + Bash automation that slashed our AWS bill by 50–60%.
-3.  **[llm-infra-on-bedrock](https://github.com/okpranavbansal/llm-infra-on-bedrock)** — Production-grade LLM inference infrastructure using Amazon Bedrock and ECS.
-4.  **[gke-observability-stack](https://github.com/okpranavbansal/gke-observability-stack)** — Full-stack monitoring (LPGT) on GKE using Prometheus, Grafana, Loki, and Tempo.
-5.  **[sre-runbooks](https://github.com/okpranavbansal/sre-runbooks)** — Battle-tested incident response playbooks and postmortem templates.
-6.  **[kafka-realtime-analytics](https://github.com/okpranavbansal/kafka-realtime-analytics)** — Real-time analytics engine (Kafka + Pinot + Superset) — Hackathon 🥈.
-
----
-
-### What I actually do
-
-```
-Cloud Migration     AWS → GCP  ·  ECS → GKE  ·  Workload Identity
-AI Infrastructure   Amazon Bedrock  ·  SageMaker  ·  LLM workflows
-Kubernetes          GKE  ·  80+ microservices  ·  ArgoCD GitOps
-Cost Engineering    Operationalizing 50–60% AWS cost savings
-Observability       Prometheus  ·  Grafana  ·  Loki  ·  Tempo
+```text
+Platform Reliability   GKE, Argo CD, SLOs, incident response, toil reduction
+AI Infrastructure      Vertex AI, Model Garden, Agent Engine, Langfuse, Bedrock
+Cloud Migration        AWS -> GCP, ECS Fargate -> GKE, Workload Identity, IAM
+Secure Delivery        SOPS/KSOPS, git-crypt, Gateway API, Cloud Armor
+Observability          Datadog, Prometheus, Grafana, Loki, Tempo, New Relic
 ```
 
----
+## Proof Points
 
-### Tech stack
+- Led the AWS -> GCP migration track for Wyzard.ai's AI platform, moving from
+  ECS Fargate to GKE across 28+ services.
+- Built GitOps delivery with Argo CD App of Apps and SOPS/KSOPS-based secret
+  decryption, reducing deployment toil by 40%.
+- Worked on production infrastructure serving ASTRA / OLX Indonesia scale:
+  80+ microservices and 9M+ MAU platform exposure.
+- Reduced AWS spend by 50-60% through Spot strategy, RDS tuning, and
+  infrastructure right-sizing.
+- Maintained 9.77/10 CGPA while working in production DevOps/SRE environments.
+
+## Portfolio Tour
+
+- [aws-to-gcp-migration-playbook] — ECS-to-GKE migration planning,
+  Workload Identity mapping, networking, and rollout controls.
+- [k8s-cost-optimizer] — Terraform and shell automation for cost visibility
+  and cleanup.
+- [llm-infra-on-bedrock] — LLM inference infrastructure patterns on AWS
+  Bedrock and ECS.
+- [gke-observability-stack] — Prometheus, Grafana, Loki, and Tempo on
+  Kubernetes.
+- [sre-runbooks] — Incident response templates, SOPs, and postmortem habits.
+- [kafka-realtime-analytics] — Kafka, Apache Pinot, and Superset analytics from
+  a hackathon runner-up build.
+
+## Stack
 
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
----
+## Contact
 
----
+- Portfolio: [okpranavbansal.github.io][Portfolio]
+- LinkedIn: [linkedin.com/in/okpranavbansal][LinkedIn]
+- Email: [okpranavbansal@gmail.com][Email]
 
-### Achievements
+<!-- Stay hungry, stay useful. -->
 
-- **Runner-up, Hackathon 2025** — Real-time analytics engine (Kafka + Pinot + Superset).
-- **AWS → GCP Migration Lead** — Successfully migrated critical AI infrastructure with zero data loss.
-- **9.77 CGPA, Chitkara University** — Maintained high academic excellence while working in production environments.
-
----
-
-### Find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/okpranavbansal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:okpranavbansal@gmail.com)
-
-<!-- "Stay hungry, stay foolish." -->
+[Portfolio]: https://okpranavbansal.github.io
+[LinkedIn]: https://www.linkedin.com/in/okpranavbansal/
+[Email]: mailto:okpranavbansal@gmail.com
+[aws-to-gcp-migration-playbook]: https://github.com/okpranavbansal/aws-to-gcp-migration-playbook
+[k8s-cost-optimizer]: https://github.com/okpranavbansal/k8s-cost-optimizer
+[llm-infra-on-bedrock]: https://github.com/okpranavbansal/llm-infra-on-bedrock
+[gke-observability-stack]: https://github.com/okpranavbansal/gke-observability-stack
+[sre-runbooks]: https://github.com/okpranavbansal/sre-runbooks
+[kafka-realtime-analytics]: https://github.com/okpranavbansal/kafka-realtime-analytics
