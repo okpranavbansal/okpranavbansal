@@ -61,6 +61,13 @@ Observability          Datadog, Prometheus, Grafana, Loki, Tempo, New Relic
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=okpranavbansal&show_icons=true&theme=transparent&hide_border=true" alt="Pranav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okpranavbansal&layout=compact&theme=transparent&hide_border=true" alt="Pranav's Top Languages" />
+</p>
+
 ## Contact
 
 - Portfolio: [okpranavbansal.github.io][Portfolio]
