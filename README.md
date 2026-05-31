@@ -74,8 +74,8 @@ I'm currently exploring and learning about:
 ## 🏍️ Beyond the Terminal
 
 When I'm not writing Terraform or debugging Kubernetes:
-- I'm playing Chess (catch me on [Chess.com](https://chess.com/member/Pranavbnsl))
-- I'm riding my Royal Enfield motorcycle
+- I'm playing Chess (catch me on [Chess.com](https://www.chess.com/member/okpranavbansal))
+- I'm riding my Motorcycle
 - I'm studying Buffett/Munger principles and the psychology of human misjudgment
 
 ## Contact
