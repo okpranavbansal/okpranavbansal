@@ -4,11 +4,7 @@
 Site Reliability · cloud migrations · Kubernetes · AI platform operations  
 Gurgaon, India · [Portfolio] · [LinkedIn] · [Email]
 
-I build and operate production infrastructure for AI products: GKE platforms,
-GitOps delivery, secure Kubernetes edges, observability loops, and cost-aware
-cloud systems. Recently, my work has centered on moving Wyzard.ai from AWS/ECS
-to GCP/GKE while keeping reliability, secrets, deployment flow, and
-founder-facing delivery in shape.
+I am a curious builder and T-shaped engineer who loves operating production infrastructure for AI products: GKE platforms, GitOps delivery, secure Kubernetes edges, and observability loops. While my day job focuses on moving Wyzard.ai from AWS/ECS to GCP/GKE and maintaining reliability, I spend my off-hours exploring agentic AI, optimizing cloud costs, and learning in public.
 
 ## Current Focus
 
@@ -67,6 +63,20 @@ Observability          Datadog, Prometheus, Grafana, Loki, Tempo, New Relic
   <img src="https://github-readme-stats.vercel.app/api?username=okpranavbansal&show_icons=true&theme=transparent&hide_border=true" alt="Pranav's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okpranavbansal&layout=compact&theme=transparent&hide_border=true" alt="Pranav's Top Languages" />
 </p>
+
+## 🐇 Current Rabbit Holes
+
+I'm currently exploring and learning about:
+- **Agentic AI Mesh**: Orchestrating multi-agent runtimes and context engineering.
+- **FinOps & Cost Optimization**: Building scalable patterns that are cost-aware by design.
+- **Value Investing**: Applying Charlie Munger's mental models to both system design and personal finance.
+
+## 🏍️ Beyond the Terminal
+
+When I'm not writing Terraform or debugging Kubernetes:
+- I'm playing Chess (catch me on [Chess.com](https://chess.com/member/Pranavbnsl))
+- I'm riding my Royal Enfield motorcycle
+- I'm studying Buffett/Munger principles and the psychology of human misjudgment
 
 ## Contact
 
