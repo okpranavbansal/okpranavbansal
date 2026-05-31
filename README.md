@@ -60,8 +60,8 @@ Observability          Datadog, Prometheus, Grafana, Loki, Tempo, New Relic
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okpranavbansal&show_icons=true&theme=transparent&hide_border=true" alt="Pranav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okpranavbansal&layout=compact&theme=transparent&hide_border=true" alt="Pranav's Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=okpranavbansal&show_icons=true&theme=transparent&hide_border=true" alt="Pranav's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=okpranavbansal&layout=compact&theme=transparent&hide_border=true" alt="Pranav's Top Languages" />
 </p>
 
 ## 🐇 Current Rabbit Holes
