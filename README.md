@@ -1,7 +1,7 @@
 # Pranav Bansal
 
 > **I build and operate the platform layer behind AI products.**
-> _Senior AI Platform Engineer @ Wyzard.ai | Site Reliability · Kubernetes · Cloud Migrations_
+> _Site Reliability & Platform Engineer @ Wyzard.ai | Kubernetes · Cloud Migrations · AI Infrastructure_
 
 Gurgaon, India 📍 | [Portfolio](https://okpranavbansal.github.io) | [LinkedIn](https://www.linkedin.com/in/okpranavbansal/) | [Email](mailto:okpranavbansal@gmail.com)
 
