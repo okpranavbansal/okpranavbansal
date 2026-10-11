@@ -24,6 +24,7 @@ My best work involves zero-downtime cutovers and significant architectural shift
 
 - **[`aws-to-gcp-migration-playbook`](https://github.com/okpranavbansal/aws-to-gcp-migration-playbook)** — AWS ECS Fargate to GKE migration strategy, Workload Identity mapping, and Gateway API rollout.
 - **Messaging cutover (Confluent to GCP managed Kafka)** — Cut ~88% of monthly messaging spend with a drain-and-repoint cutover inside a 4-hour window. No lost messages and no application code changes.
+- **MongoDB cutover (Atlas to GKE self-managed)** — Cut database licensing costs and established full governance by migrating from MongoDB Atlas to a self-managed replica set on GKE via the MongoDB Community Kubernetes Operator and mongot search.
 - **[`k8s-cost-optimizer`](https://github.com/okpranavbansal/k8s-cost-optimizer)** — Terraform and bash tooling for deep FinOps visibility, namespace cleanup, and RDS/Spot tuning.
 - **[`gke-observability-stack`](https://github.com/okpranavbansal/gke-observability-stack)** — Datadog, Prometheus, Grafana, and Loki patterns. The 80+ microservices and 9M+ MAU figures are ASTRA (OLX Indonesia) at Roundcircle, where I supported the observability move.
 - **[`llm-infra-on-bedrock`](https://github.com/okpranavbansal/llm-infra-on-bedrock)** — LLM inference patterns and agent observability.
@@ -39,6 +40,7 @@ _The tools I use in production right now._
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
